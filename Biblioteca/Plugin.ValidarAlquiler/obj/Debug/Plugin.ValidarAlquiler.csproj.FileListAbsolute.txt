@@ -1,0 +1,12 @@
+C:\Users\dortiz\source\repos\DOrtiz\Biblioteca\Plugin.ValidarAlquiler\bin\Debug\Plugin.ValidarAlquiler.dll
+C:\Users\dortiz\source\repos\DOrtiz\Biblioteca\Plugin.ValidarAlquiler\bin\Debug\Plugin.ValidarAlquiler.pdb
+C:\Users\dortiz\source\repos\DOrtiz\Biblioteca\Plugin.ValidarAlquiler\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\dortiz\source\repos\DOrtiz\Biblioteca\Plugin.ValidarAlquiler\bin\Debug\Microsoft.IdentityModel.dll
+C:\Users\dortiz\source\repos\DOrtiz\Biblioteca\Plugin.ValidarAlquiler\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\dortiz\source\repos\DOrtiz\Biblioteca\Plugin.ValidarAlquiler\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\dortiz\source\repos\DOrtiz\Biblioteca\Plugin.ValidarAlquiler\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\dortiz\source\repos\DOrtiz\Biblioteca\Plugin.ValidarAlquiler\obj\Debug\Plugin.ValidarAlquiler.csproj.CoreCompileInputs.cache
+C:\Users\dortiz\source\repos\DOrtiz\Biblioteca\Plugin.ValidarAlquiler\obj\Debug\Plugin.ValidarAlquiler.csproj.CopyComplete
+C:\Users\dortiz\source\repos\DOrtiz\Biblioteca\Plugin.ValidarAlquiler\obj\Debug\Plugin.ValidarAlquiler.dll
+C:\Users\dortiz\source\repos\DOrtiz\Biblioteca\Plugin.ValidarAlquiler\obj\Debug\Plugin.ValidarAlquiler.pdb
+C:\Users\dortiz\source\repos\DOrtiz\Biblioteca\Plugin.ValidarAlquiler\obj\Debug\Plugin.ValidarAlquiler.csprojResolveAssemblyReference.cache

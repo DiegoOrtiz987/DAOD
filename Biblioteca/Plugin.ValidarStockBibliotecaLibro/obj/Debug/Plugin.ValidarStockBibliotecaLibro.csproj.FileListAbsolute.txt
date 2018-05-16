@@ -1,0 +1,11 @@
+C:\Users\dortiz\source\repos\DOrtiz\Biblioteca\Plugin.ValidarStockBibliotecaLibro\bin\Debug\Plugin.ValidarStockBibliotecaLibro.dll
+C:\Users\dortiz\source\repos\DOrtiz\Biblioteca\Plugin.ValidarStockBibliotecaLibro\bin\Debug\Plugin.ValidarStockBibliotecaLibro.pdb
+C:\Users\dortiz\source\repos\DOrtiz\Biblioteca\Plugin.ValidarStockBibliotecaLibro\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\dortiz\source\repos\DOrtiz\Biblioteca\Plugin.ValidarStockBibliotecaLibro\bin\Debug\Microsoft.IdentityModel.dll
+C:\Users\dortiz\source\repos\DOrtiz\Biblioteca\Plugin.ValidarStockBibliotecaLibro\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\dortiz\source\repos\DOrtiz\Biblioteca\Plugin.ValidarStockBibliotecaLibro\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\dortiz\source\repos\DOrtiz\Biblioteca\Plugin.ValidarStockBibliotecaLibro\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\dortiz\source\repos\DOrtiz\Biblioteca\Plugin.ValidarStockBibliotecaLibro\obj\Debug\Plugin.ValidarStockBibliotecaLibro.csproj.CoreCompileInputs.cache
+C:\Users\dortiz\source\repos\DOrtiz\Biblioteca\Plugin.ValidarStockBibliotecaLibro\obj\Debug\Plugin.ValidarStockBibliotecaLibro.csproj.CopyComplete
+C:\Users\dortiz\source\repos\DOrtiz\Biblioteca\Plugin.ValidarStockBibliotecaLibro\obj\Debug\Plugin.ValidarStockBibliotecaLibro.dll
+C:\Users\dortiz\source\repos\DOrtiz\Biblioteca\Plugin.ValidarStockBibliotecaLibro\obj\Debug\Plugin.ValidarStockBibliotecaLibro.pdb

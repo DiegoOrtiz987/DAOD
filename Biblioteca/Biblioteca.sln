@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plugin.ValidacionDni", "Plugin.ValidacionDni\Plugin.ValidacionDni.csproj", "{ACD76414-E378-4714-8051-20C59AF0AD9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plugin.IncrementarNroSocio", "Plugin.IncrementarNroSocio\Plugin.IncrementarNroSocio.csproj", "{09B1F78C-9CD5-4500-A7E9-1724AB7ED100}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plugin.ValidarIsbnLibro", "Plugin.ValidarIsbnLibro\Plugin.ValidarIsbnLibro.csproj", "{84577C68-C6C2-4AAB-9894-9A62A6F13F3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plugin.ValidarNombreBiblioteca", "Plugin.ValidarNombreBiblioteca\Plugin.ValidarNombreBiblioteca.csproj", "{7E10F4CC-8501-4026-88E6-C02DB1B3F453}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plugin.ValidarStockBibliotecaLibro", "Plugin.ValidarStockBibliotecaLibro\Plugin.ValidarStockBibliotecaLibro.csproj", "{5EDFC674-188C-43E0-9796-4DE8121A2901}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plugin.ValidarAlquiler", "Plugin.ValidarAlquiler\Plugin.ValidarAlquiler.csproj", "{8AA6F700-EB6B-49A1-BE83-18F23CEF6D90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACD76414-E378-4714-8051-20C59AF0AD9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACD76414-E378-4714-8051-20C59AF0AD9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACD76414-E378-4714-8051-20C59AF0AD9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACD76414-E378-4714-8051-20C59AF0AD9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09B1F78C-9CD5-4500-A7E9-1724AB7ED100}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09B1F78C-9CD5-4500-A7E9-1724AB7ED100}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09B1F78C-9CD5-4500-A7E9-1724AB7ED100}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09B1F78C-9CD5-4500-A7E9-1724AB7ED100}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84577C68-C6C2-4AAB-9894-9A62A6F13F3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84577C68-C6C2-4AAB-9894-9A62A6F13F3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84577C68-C6C2-4AAB-9894-9A62A6F13F3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84577C68-C6C2-4AAB-9894-9A62A6F13F3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E10F4CC-8501-4026-88E6-C02DB1B3F453}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E10F4CC-8501-4026-88E6-C02DB1B3F453}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E10F4CC-8501-4026-88E6-C02DB1B3F453}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E10F4CC-8501-4026-88E6-C02DB1B3F453}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EDFC674-188C-43E0-9796-4DE8121A2901}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EDFC674-188C-43E0-9796-4DE8121A2901}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EDFC674-188C-43E0-9796-4DE8121A2901}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EDFC674-188C-43E0-9796-4DE8121A2901}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AA6F700-EB6B-49A1-BE83-18F23CEF6D90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AA6F700-EB6B-49A1-BE83-18F23CEF6D90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AA6F700-EB6B-49A1-BE83-18F23CEF6D90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AA6F700-EB6B-49A1-BE83-18F23CEF6D90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EFBB227-202C-4762-9189-4BEE4A054142}
+	EndGlobalSection
+EndGlobal

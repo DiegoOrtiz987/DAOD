@@ -9,4 +9,3 @@ C:\Users\dortiz\source\repos\DOrtiz\Biblioteca\Plugin.ValidarNombreBiblioteca\ob
 C:\Users\dortiz\source\repos\DOrtiz\Biblioteca\Plugin.ValidarNombreBiblioteca\obj\Debug\Plugin.ValidarNombreBiblioteca.csproj.CopyComplete
 C:\Users\dortiz\source\repos\DOrtiz\Biblioteca\Plugin.ValidarNombreBiblioteca\obj\Debug\Plugin.ValidarNombreBiblioteca.dll
 C:\Users\dortiz\source\repos\DOrtiz\Biblioteca\Plugin.ValidarNombreBiblioteca\obj\Debug\Plugin.ValidarNombreBiblioteca.pdb
-C:\Users\dortiz\source\repos\DOrtiz\Biblioteca\Plugin.ValidarNombreBiblioteca\obj\Debug\Plugin.ValidarNombreBiblioteca.csprojResolveAssemblyReference.cache

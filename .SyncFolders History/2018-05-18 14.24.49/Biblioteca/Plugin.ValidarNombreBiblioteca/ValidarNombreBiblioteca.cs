@@ -28,7 +28,6 @@ namespace Plugin.ValidarNombreBiblioteca
 
             Entity entity = (Entity)context.InputParameters["Target"];
 
-            
             if (entity.LogicalName.Equals("dao_biblioteca") && entity.Attributes.Contains("dao_nombre"))
             {
                 //Captura del nombre de la biblioteca que se digito 
@@ -39,7 +38,6 @@ namespace Plugin.ValidarNombreBiblioteca
                 consultaBiblioteca.NoLock = true;
                 consultaBiblioteca.TopCount = 1;
 
-                #region Validacion Create
                 //Evento Create
                 if (evento.Equals("create"))
                 {
@@ -53,11 +51,7 @@ namespace Plugin.ValidarNombreBiblioteca
                     {
                         throw new InvalidPluginExecutionException("*** Nombre ya existente ***");
                     }
-                }
-                #endregion
-
-                #region Vaidacion Update
-                //Evento Update
+                }//Evento Update
                 else if (evento.Equals("update"))
                 {
                     consultaBiblioteca.ColumnSet.AddColumns("dao_bibliotecaid", "dao_nombre");
@@ -83,7 +77,6 @@ namespace Plugin.ValidarNombreBiblioteca
                         
                     }
                 }
-                #endregion
             }
         }
     }

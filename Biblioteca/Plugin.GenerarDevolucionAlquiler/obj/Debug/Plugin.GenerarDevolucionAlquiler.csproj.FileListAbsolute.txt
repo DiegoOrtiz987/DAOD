@@ -1,0 +1,12 @@
+C:\Users\dortiz\source\repos\DOrtiz\Biblioteca\Plugin.GenerarDevolucionAlquiler\bin\Debug\Plugin.GenerarDevolucionAlquiler.dll
+C:\Users\dortiz\source\repos\DOrtiz\Biblioteca\Plugin.GenerarDevolucionAlquiler\bin\Debug\Plugin.GenerarDevolucionAlquiler.pdb
+C:\Users\dortiz\source\repos\DOrtiz\Biblioteca\Plugin.GenerarDevolucionAlquiler\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\dortiz\source\repos\DOrtiz\Biblioteca\Plugin.GenerarDevolucionAlquiler\bin\Debug\Microsoft.IdentityModel.dll
+C:\Users\dortiz\source\repos\DOrtiz\Biblioteca\Plugin.GenerarDevolucionAlquiler\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\dortiz\source\repos\DOrtiz\Biblioteca\Plugin.GenerarDevolucionAlquiler\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\dortiz\source\repos\DOrtiz\Biblioteca\Plugin.GenerarDevolucionAlquiler\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\dortiz\source\repos\DOrtiz\Biblioteca\Plugin.GenerarDevolucionAlquiler\obj\Debug\Plugin.GenerarDevolucionAlquiler.csprojResolveAssemblyReference.cache
+C:\Users\dortiz\source\repos\DOrtiz\Biblioteca\Plugin.GenerarDevolucionAlquiler\obj\Debug\Plugin.GenerarDevolucionAlquiler.csproj.CoreCompileInputs.cache
+C:\Users\dortiz\source\repos\DOrtiz\Biblioteca\Plugin.GenerarDevolucionAlquiler\obj\Debug\Plugin.GenerarDevolucionAlquiler.csproj.CopyComplete
+C:\Users\dortiz\source\repos\DOrtiz\Biblioteca\Plugin.GenerarDevolucionAlquiler\obj\Debug\Plugin.GenerarDevolucionAlquiler.dll
+C:\Users\dortiz\source\repos\DOrtiz\Biblioteca\Plugin.GenerarDevolucionAlquiler\obj\Debug\Plugin.GenerarDevolucionAlquiler.pdb

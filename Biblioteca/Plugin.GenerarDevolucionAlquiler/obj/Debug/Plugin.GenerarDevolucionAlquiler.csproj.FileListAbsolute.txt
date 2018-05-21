@@ -5,7 +5,6 @@ C:\Users\dortiz\source\repos\DOrtiz\Biblioteca\Plugin.GenerarDevolucionAlquiler\
 C:\Users\dortiz\source\repos\DOrtiz\Biblioteca\Plugin.GenerarDevolucionAlquiler\bin\Debug\Microsoft.Xrm.Sdk.dll
 C:\Users\dortiz\source\repos\DOrtiz\Biblioteca\Plugin.GenerarDevolucionAlquiler\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
 C:\Users\dortiz\source\repos\DOrtiz\Biblioteca\Plugin.GenerarDevolucionAlquiler\bin\Debug\Microsoft.Xrm.Sdk.xml
-C:\Users\dortiz\source\repos\DOrtiz\Biblioteca\Plugin.GenerarDevolucionAlquiler\obj\Debug\Plugin.GenerarDevolucionAlquiler.csprojResolveAssemblyReference.cache
 C:\Users\dortiz\source\repos\DOrtiz\Biblioteca\Plugin.GenerarDevolucionAlquiler\obj\Debug\Plugin.GenerarDevolucionAlquiler.csproj.CoreCompileInputs.cache
 C:\Users\dortiz\source\repos\DOrtiz\Biblioteca\Plugin.GenerarDevolucionAlquiler\obj\Debug\Plugin.GenerarDevolucionAlquiler.csproj.CopyComplete
 C:\Users\dortiz\source\repos\DOrtiz\Biblioteca\Plugin.GenerarDevolucionAlquiler\obj\Debug\Plugin.GenerarDevolucionAlquiler.dll
